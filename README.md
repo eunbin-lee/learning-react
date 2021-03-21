@@ -1,8 +1,6 @@
 # 리액트 공부
 
 <br/>
-<br/>
-<br/>
 
 ### [ Todo-list 만들기 - React ]
 
